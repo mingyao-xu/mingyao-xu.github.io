@@ -1,2 +1,7 @@
 # derrick_portfolio
-personal website
+
+## Education Background
+2014 - 2018 Nanjing Audit University
+## Research Experience
+
+## Teaching Experience
